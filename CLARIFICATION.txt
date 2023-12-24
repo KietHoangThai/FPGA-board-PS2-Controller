@@ -1,0 +1,7 @@
+CLARIFICATION
+-----------------------------------
+
+Each key number when presses will have 3 packets which are named as following:
+- Packet 1: press state - makecode
+- Packet 0: release state - breakcode 
+- Packet 2: release state - makecode
